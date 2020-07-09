@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gldka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gldka\\.nuget\\packages"
+    ]
+  }
+}
